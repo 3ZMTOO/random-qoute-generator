@@ -1,0 +1,35 @@
+*
+{
+   margin: 0;
+   padding: 0; 
+   box-sizing: border-box;
+}
+.head
+{
+    height: 100vh;
+    /* background-color: bisque; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    
+}
+.first
+{
+    /* background-color: blue; */
+    text-align: center;
+}
+h6
+{
+    padding:50px 0;
+}
+button
+{
+    padding: 15px;
+    text-align: center;
+    
+}
+p
+{
+        padding: 50px 0;
+}
